@@ -29,63 +29,63 @@
             <div class="recents">
                 <ul class="recents-list">
                     <li class="recent-item">
-                        <img src="../public/images/Group 11.png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Group 11.png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>Liked Songs</span>
                             <span class="track-count">• 234 songs</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (1).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (1).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>Johnny Drille</span>
                             <span class="artist-type">Artist</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (2).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (2).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>African Heat</span>
                             <span class="playlist-type">Playlist • Spotify</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (3).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (3).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>Moody Mix</span>
                             <span class="playlist-type">Playlist • Spotify</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (5).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (5).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>Varsity Bars</span>
                             <span class="playlist-type">Playlist • Spotify</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (6).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (6).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>ODUMODUBLVCK</span>
                             <span class="artist-type">Artist</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (7).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (7).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>Your Top Songs 2023</span>
                             <span class="playlist-type">Playlist • Spotify</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (8).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (8).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>2000s HITS THROWBACKS | TOP 100 SONGS</span>
                             <span class="playlist-type">Playlist • Filtr US</span>
                         </div>
                     </li>
                     <li class="recent-item">
-                        <img src="../public/images/Mask group (9).png" alt="Liked Songs">
+                        <img src="/../homepage/public/images/Mask group (9).png" alt="Liked Songs">
                         <div class="recent-info">
                             <span>Shallipopi, ODUMODUBLVCK - Cast</span>
                             <span class="playlist-type">Playlist • Curatorboy</span>
